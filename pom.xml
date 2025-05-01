@@ -30,8 +30,8 @@ THE SOFTWARE.
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
-    <shib.idp.version>5.0.0</shib.idp.version>
-    <opensaml.version>5.0.0</opensaml.version>
+    <shib.idp.version>5.1.0</shib.idp.version>
+    <opensaml.version>5.1.0</opensaml.version>
   </properties>
   <repositories>
     <repository>
